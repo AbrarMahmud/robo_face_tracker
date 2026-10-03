@@ -1,0 +1,7 @@
+
+    path: /kaggle/working/dataset
+    train: images/train
+    val: images/train  # Use the same training set as validation for simplicity
+    nc: 2  # Replace <number_of_classes> with the actual number of classes
+    names: ['grass-weeds','0 ridderzuring']  # Replace with your class names
+    
