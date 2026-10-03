@@ -6,7 +6,7 @@
 
 A modular ROS 1 (Noetic) project for robotic face/object tracking. The system captures a live webcam feed, runs real-time object detection using YOLOv5, and translates the detected bounding boxes into 3D neck movements. The robotic neck movements are speed-interpolated to ensure smooth, natural motion.
 
-![Project Demo](src/proj.gif)
+![Project Demo](src/IMG_0161.gif)
 
 ## 🌟 Features
 
