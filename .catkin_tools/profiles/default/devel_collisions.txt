@@ -1,0 +1,1 @@
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/./cmake.lock 24

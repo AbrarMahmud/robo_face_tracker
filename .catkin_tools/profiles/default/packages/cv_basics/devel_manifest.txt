@@ -1,0 +1,5 @@
+cv_basics
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/cv_basics/cmake.lock /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/./cmake.lock
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/cv_basics/lib/pkgconfig/cv_basics.pc /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/lib/pkgconfig/cv_basics.pc
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/cv_basics/share/cv_basics/cmake/cv_basicsConfig.cmake /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/share/cv_basics/cmake/cv_basicsConfig.cmake
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/cv_basics/share/cv_basics/cmake/cv_basicsConfig-version.cmake /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/share/cv_basics/cmake/cv_basicsConfig-version.cmake

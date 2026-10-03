@@ -1,0 +1,27 @@
+# ROS Workspace build directories
+build/
+devel/
+logs/
+log/
+.catkin_workspace
+compile_commands.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# YOLOv5 specific / IDEs
+.idea/
+.vscode/
+*.swp

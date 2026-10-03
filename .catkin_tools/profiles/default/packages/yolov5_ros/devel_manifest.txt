@@ -1,0 +1,7 @@
+yolov5_ros
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/yolov5_ros/cmake.lock /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/./cmake.lock
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/yolov5_ros/lib/yolov5_ros/detect.py /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/lib/yolov5_ros/detect.py
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/yolov5_ros/lib/yolov5_ros/cmake.lock /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/lib/yolov5_ros/cmake.lock
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/yolov5_ros/lib/pkgconfig/yolov5_ros.pc /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/lib/pkgconfig/yolov5_ros.pc
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/yolov5_ros/share/yolov5_ros/cmake/yolov5_rosConfig.cmake /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/share/yolov5_ros/cmake/yolov5_rosConfig.cmake
+/home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/.private/yolov5_ros/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake /home/ifaz/ros_proj_noetic/face_track_YOLO_try1/devel/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake
