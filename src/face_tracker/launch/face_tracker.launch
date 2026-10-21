@@ -1,0 +1,15 @@
+<launch>
+  <node
+    pkg="cv_basics"
+    type="webcam_pub.py"
+    name="webcam_pub"
+    output="screen"
+  />
+  <node name="face_tracker" pkg="face_tracker" type="tracker_node.py" output="screen">
+    <remap from="/face_tracker/image_raw" to="/cv_basics/video_frames"/>
+    <remap from="/face_tracker/servo_controller" to="/servo"/>
+  </node>
+  <node name="rosserial" pkg="rosserial_python" type="serial_node.py" output="screen">
+    <param name="port" value="/dev/ttyUSB0" />
+  </node>
+</launch>
