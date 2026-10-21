@@ -8,7 +8,7 @@ A modular ROS 1 (Noetic) project for robotic face/object tracking. The system ca
 
 
 <p align="center">
-  <img src="src/IMG_0161.gif" alt="Project Demo" />
+  <img src="src/proj_demo.gif" alt="Project Demo" />
 </p>
 ## 🌟 Features
 
